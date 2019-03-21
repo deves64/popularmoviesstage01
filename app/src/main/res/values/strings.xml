@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie - Stage 1 </string>
+    <string name="sort_most_popular_title">Most Popular</string>
+    <string name="sort_highest_rated_title">Highest Rated</string>
+    <string name="no_internet">no Internet connection</string>
+    <string name="rating_out_of">/10</string>
+    <string name="image_description">Movie Poster</string>
+</resources>
