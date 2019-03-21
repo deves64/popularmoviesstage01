@@ -32,7 +32,7 @@ public final class NetworkUtils {
                 .appendEncodedPath(MOVIE_PATH)
                 .appendEncodedPath(queryPath)
                 //Todo: Please enter API Key here
-                .appendQueryParameter(API_KEY_PARAM, "81447a93e5ee5899d32665d3c22a1448")
+                .appendQueryParameter(API_KEY_PARAM, "")
                 .appendQueryParameter(LANGUAGE_PARAM, default_language_value)
                 .appendQueryParameter(PAGE_PARAM, Integer.toString(pageValue))
                 .build();
