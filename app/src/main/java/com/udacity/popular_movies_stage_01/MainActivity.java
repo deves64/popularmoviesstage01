@@ -146,6 +146,7 @@ public class MainActivity extends AppCompatActivity implements InternetConsumer,
 
     private void setAndModifyTitle(int id) {
         String title = getString(id);
-        setTitle("Sorted by: " + title);
+        String pre = getString(R.string.sorted_by);
+        setTitle(pre + ": " + title);
     }
 }
